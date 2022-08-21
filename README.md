@@ -1,13 +1,12 @@
-# Hi there, I'm Robin <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+# Hi there, I'm Robin <img src = ".github/gifs/greetings.gif" width="30px">
 ### Connect with me
 [![Github](https://img.shields.io/github/followers/nerotyc?label=Follow&style=flat&logo=Github&logoColor=white)](https://github.com/nerotyc)
 [![Card](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=appveyor&logoColor=white)](https://robinh.xyz)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nerotyc)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robin-holzinger/)
-<span><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"></span>
+<span><img src = ".github/gifs/handshake.gif" width="30px"></span>
 
-<div size='20px'> Thank You for taking the time to view my GitHub Profile😉 
-</div>
+<div size='20px'> Thank You for taking the time to view my GitHub Profile😉</div>
 
 ## About Me
 
@@ -18,6 +17,8 @@
 - 👨‍💻 All of my projects [https://github.com/nerotyc](https://github.com/nerotyc)
 
 - 📫 Email **github@robinh.xyz**
+
+<span><img src = ".github/gifs/programmer.gif" width="400px"></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
