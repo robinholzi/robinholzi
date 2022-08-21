@@ -108,7 +108,7 @@
 ### Languages
 <span><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/flag-germany_1f1e9-1f1ea.png" alt="android" width="50" height="50"/>
 </span>
-<span><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/flag-united-states_1f1fa-1f1f8.png" alt="android" width="60" height="60"/></span>
+<span><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/flag-united-states_1f1fa-1f1f8.png" alt="android" width="50" height="50"/></span>
 
 ### Interests
 
