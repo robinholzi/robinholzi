@@ -9,6 +9,7 @@
 <div size='20px'> Thank You for taking the time to view my GitHub Profile😉</div>
 
 ## About Me
+<span><img align="right" src = ".github/gifs/programmer.gif" width="350px"></span>
 
 - 🔭 I’m currently working on [CrytoTax](https://github.com/nerotyc/cryptotax_frontend)
 
@@ -17,8 +18,6 @@
 - 👨‍💻 All of my projects [https://github.com/nerotyc](https://github.com/nerotyc)
 
 - 📫 Email **github@robinh.xyz**
-
-<span><img src = ".github/gifs/programmer.gif" width="400px"></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -114,6 +113,7 @@
 ### Interests
 
 ## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerotyc&show_icons=true&locale=en" alt="nerotyc" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerotyc&" alt="nerotyc" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerotyc&show_icons=true&locale=en&layout=compact" alt="nerotyc" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nerotyc&show_icons=true&locale=en" alt="nerotyc" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerotyc&show_icons=true&locale=en&layout=compact" alt="nerotyc" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nerotyc&" alt="nerotyc" /></p>
+
