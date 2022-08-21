@@ -113,7 +113,8 @@
 ### Interests
 
 ## GitHub Stats
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nerotyc&show_icons=true&locale=en" alt="nerotyc" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerotyc&show_icons=true&locale=en&layout=compact" alt="nerotyc" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nerotyc&" alt="nerotyc" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nerotyc&show_icons=true&locale=en" alt="nerotyc" /></p>
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nerotyc&" alt="nerotyc" /></p>
+
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nerotyc&show_icons=true&locale=en&layout=compact" alt="nerotyc" /></div>
