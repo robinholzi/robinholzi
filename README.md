@@ -1,7 +1,7 @@
 # Hi there, I'm Robin <img src = ".github/gifs/greetings.gif" width="30px">
 ### Connect with me
 [![Github](https://img.shields.io/github/followers/robinholzi?label=Follow&style=flat&logo=Github&logoColor=white)](https://github.com/robinholzi)
-[![Card](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=appveyor&logoColor=white)](https://robinh.xyz)
+[![Card](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=appveyor&logoColor=white)](https://robinh.me)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robinholzi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robin-holzinger/)
 <span><img src = ".github/gifs/handshake.gif" width="30px"></span>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects [https://github.com/robinholzi](https://github.com/robinholzi)
 
-- 📫 Email **github@robinh.xyz**
+- 📫 Email **gh@robinh.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
