@@ -1,8 +1,8 @@
 # Hi there, I'm Robin <img src = ".github/gifs/greetings.gif" width="30px">
 ### Connect with me
-[![Github](https://img.shields.io/github/followers/nerotyc?label=Follow&style=flat&logo=Github&logoColor=white)](https://github.com/robinholzi)
+[![Github](https://img.shields.io/github/followers/robinholzi?label=Follow&style=flat&logo=Github&logoColor=white)](https://github.com/robinholzi)
 [![Card](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=appveyor&logoColor=white)](https://robinh.xyz)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nerotyc)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robinholzi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robin-holzinger/)
 <span><img src = ".github/gifs/handshake.gif" width="30px"></span>
 
@@ -11,11 +11,11 @@
 ## About Me
 <span><img align="right" src = ".github/gifs/programmer.gif" width="350px"></span>
 
-- 🔭 I’m currently working on [CrytoTax](https://github.com/nerotyc/cryptotax_frontend)
+- 🔭 I’m currently working on [CrytoTax](https://github.com/robinholzi/cryptotax_frontend)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects [https://github.com/nerotyc](https://github.com/nerotyc)
+- 👨‍💻 All of my projects [https://github.com/robinholzi](https://github.com/robinholzi)
 
 - 📫 Email **github@robinh.xyz**
 
@@ -113,8 +113,8 @@
 ### Interests
 
 ## GitHub Stats
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nerotyc&show_icons=true&locale=en" alt="nerotyc" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=robinholzi&show_icons=true&locale=en" alt="robinholzi" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nerotyc&" alt="nerotyc" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=robinholzi&" alt="robinholzi" /></p>
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nerotyc&show_icons=true&locale=en&layout=compact" alt="nerotyc" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robinholzi&show_icons=true&locale=en&layout=compact" alt="robinholzi" /></div>
