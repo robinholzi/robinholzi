@@ -1,6 +1,6 @@
 # Hi there, I'm Robin <img src = ".github/gifs/greetings.gif" width="30px">
 ### Connect with me
-[![Github](https://img.shields.io/github/followers/nerotyc?label=Follow&style=flat&logo=Github&logoColor=white)](https://github.com/nerotyc)
+[![Github](https://img.shields.io/github/followers/nerotyc?label=Follow&style=flat&logo=Github&logoColor=white)](https://github.com/robinholzi)
 [![Card](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=appveyor&logoColor=white)](https://robinh.xyz)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nerotyc)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robin-holzinger/)
