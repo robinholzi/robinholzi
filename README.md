@@ -4,85 +4,29 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robinholzi)
 [![Card](https://img.shields.io/badge/-Card-orange?style=flat&logo=appveyor&logoColor=white)](https://robinh.me)
 
-I'm a dedicated computer science student from TUM (Munich) with a passion for data including everything from data engineering to database systems and machine Learning.
+I'm a dedicated computer science student from [TUM (Munich)](https://www.tum.de/en/) with a passion for data including everything from data engineering to database systems and machine Learning.
 
 Let's connect for discussions on tech, data and efficient systems engineering!
 
-Checkout my contribution on GitHub [https://github.com/robinholzi](https://github.com/robinholzi)
-
 ## GitHub Stats
-<img src="https://myreadme.vercel.app/api/embed/robinholzi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+<img src="https://myreadme.vercel.app/api/embed/robinholzi?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" /> 
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robinholzi&show_icons=true&locale=en&layout=compact" alt="robinholzi" /></div>
 
 ### Programming Languages:
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://github.com/devicons/devicon/raw/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/>](https://ocaml.org/) [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>](https://dart.dev) [<img src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg" alt="rlang" width="40" height="40"/>](https://www.r-project.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) |
+| --- |
 
 ### Technologies and Frameworks
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-</a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
 
-### Concepts
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+| Database |
+| -------- |
+| [<img src="https://github.com/devicons/devicon/raw/master/icons/influxdb/influxdb-original.svg" alt="influxdb" width="40" height="40"/>](https://www.influxdata.com/) [<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org) [<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/) [<img src="https://github.com/devicons/devicon/raw/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/>](https://www.sqlalchemy.org/) [<img src="https://github.com/devicons/devicon/raw/master/icons/prisma/prisma-original.svg" alt="prisma-orm" width="40" height="40"/>](https://www.prisma.io/) |
+
+| DevOps |
+| ------ |
+| [<img src="https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>](https://www.terraform.io/) [<img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>](https://kubernetes.io/) [<img src="https://github.com/devicons/devicon/raw/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/>](https://helm.sh/) [<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>](https://aws.amazon.com) [<img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloudplatform" width="40" height="40"/>](https://cloud.google.com/) [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>](https://azure.microsoft.com/) [<img src="https://github.com/devicons/devicon/raw/master/icons/githubactions/githubactions-plain.svg" alt="github-actions" width="40" height="40"/>](https://docs.github.com/en/actions) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/) [<img src="https://github.com/devicons/devicon/raw/master/icons/nomad/nomad-original.svg" alt="nomad" width="40" height="40"/>](https://www.nomadproject.io/) [<img src="https://github.com/devicons/devicon/raw/master/icons/traefikproxy/traefikproxy-original.svg" alt="traefik" width="40" height="40"/>](https://traefik.io/traefik/) |
+
+| Data | APIs & Webservers | Frontend |
+| --- | --- | --- |
+| [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>](https://www.selenium.dev) [<img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/) | [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>](https://www.djangoproject.com/) [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/) [<img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>](https://graphql.org/) | [<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>](https://react.dev/) [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev) [<img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) |
